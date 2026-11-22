@@ -2,7 +2,7 @@
 
 Developer in Melbourne.
 
-I mostly work in JavaScript and TypeScript — Node.js, PostgreSQL, Appsmith, and Cloudflare Workers. Lately I've been building health dashboards and small tools that connect to real APIs.
+I mostly work in JavaScript and TypeScript Node.js, PostgreSQL, Appsmith, and Cloudflare Workers. Lately I've been building health dashboards and small tools that connect to real APIs.
 
 ## Projects
 
